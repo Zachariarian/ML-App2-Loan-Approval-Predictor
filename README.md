@@ -5,6 +5,7 @@
 *Timely, high quality predictions about your loan application; Innovative use of your data, giving useful and predictive insights; Saves your time in emailing and getting qoutes*
 
 ## Table Of Contents
+* App Preview
 * App Link
 * Business Problem
 * Machine Learning based Solution
@@ -13,6 +14,9 @@
 * Contact Me
 * License
 * Credits
+
+## App Preview
+![alt text](https://github.com/drdataSpp/ML-App2-Loan-Approval-Predictor/blob/main/Loan%20Predictor%20App.gif)
 
 ## App Link
 [Cick Here](https://www.linkedin.com/feed/update/urn:li:activity:6761916487990165504/)
